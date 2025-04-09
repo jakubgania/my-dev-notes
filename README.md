@@ -5,6 +5,14 @@ collection of various notes, links and resources
 
 ## links
 
+- [Vuetify](https://vuetifyjs.com/en/)
+- [React Native](https://reactnative.dev)
+- [Expo](https://expo.dev)
+- [Flutter](https://flutter.dev)
+- [Ionic Framework](https://ionicframework.com)
+- [NativeScript](https://nativescript.org)
+- [Lynx](https://lynxjs.org)
+
 - https://docs.github.com/en
 
 - https://docs.github.com/en/actions/writing-workflows/quickstart
