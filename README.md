@@ -3,8 +3,6 @@
 collection of various notes, links and resources
 
 
-## links
-
 - [Vuetify](https://vuetifyjs.com/en/)
 - [Next.js](https://nextjs.org)
 - [React Native](https://reactnative.dev)
@@ -16,8 +14,11 @@ collection of various notes, links and resources
 - [React](https://react.dev)
 - [Remix](https://remix.run)
 - [Angular](https://angular.dev)
-
 - [NestJS](https://nestjs.com)
+- [Node.js](https://nodejs.org/en)
+- [Express](https://expressjs.com)
+
+## general
 
 - https://docs.github.com/en
 - https://docs.github.com/en/actions/writing-workflows/quickstart
@@ -48,7 +49,6 @@ collection of various notes, links and resources
 - https://github.com/Aleph-Alpha
 - https://12factor.net
 - https://hackernoon.com
-
 - https://security.apple.com
 
 ## YouTube
