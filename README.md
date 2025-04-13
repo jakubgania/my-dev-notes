@@ -16,7 +16,7 @@ collection of various notes, links and resources
 - [React](https://react.dev)
 - [Remix](https://remix.run)
 
-- https://docs.github.com/en
+- [docs.github.com/en](https://docs.github.com/en)
 
 - https://docs.github.com/en/actions/writing-workflows/quickstart
 
