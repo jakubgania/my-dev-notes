@@ -67,4 +67,16 @@ collection of various notes, links and resources
 - https://www.youtube.com/@TechWithTim/videos
 - https://www.youtube.com/@NeuralNine/videos
 - https://www.youtube.com/@ScottYuJan/videos
+- https://www.youtube.com/@ByteByteGo/videos
+- https://www.youtube.com/@DataCamp/videos
 - https://www.youtube.com/@GregHogg/videos
+- https://www.youtube.com/@3blue1brown/videos
+- https://www.youtube.com/@Indently/videos
+
+## AI 🚀
+
+[AI at Meta](https://ai.meta.com)
+[AI at Meta Blog](https://ai.meta.com/blog/)
+[Llama](https://www.llama.com)
+[Meta Llama GitHub](https://github.com/meta-llama)
+[Meta Llama Hugging Face](https://huggingface.co/meta-llama)
