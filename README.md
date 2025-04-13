@@ -13,14 +13,29 @@ collection of various notes, links and resources
 - [NativeScript](https://nativescript.org)
 - [Lynx](https://lynxjs.org)
 
+- [React](https://react.dev)
+- [Remix](https://remix.run)
+
 - https://docs.github.com/en
 
 - https://docs.github.com/en/actions/writing-workflows/quickstart
 
 - https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project
 
+- https://cli.github.com
+
+- https://github.com/explore
+
 - https://github.com/readme/stories/evan-you
 
+- https://roadmap.sh
+
+- https://www.typescriptlang.org
+
+- https://www.totaltypescript.com/books/total-typescript-essentials
+
+- https://hub.docker.com/u/ai
+- https://docs.docker.com/desktop/features/model-runner/
 
 - https://github.com/apple/ml-stable-diffusion
 - https://github.com/lmstudio-ai/mlx-engine
@@ -46,3 +61,6 @@ collection of various notes, links and resources
 
 - https://github.com/Aleph-Alpha
 
+- https://12factor.net
+
+- https://hackernoon.com
