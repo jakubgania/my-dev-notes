@@ -6,6 +6,7 @@ collection of various notes, links and resources
 ## links
 
 - [Vuetify](https://vuetifyjs.com/en/)
+- [Next.js](https://nextjs.org)
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.dev)
 - [Flutter](https://flutter.dev)
@@ -14,6 +15,10 @@ collection of various notes, links and resources
 - [Lynx](https://lynxjs.org)
 - [React](https://react.dev)
 - [Remix](https://remix.run)
+- [Angular](https://angular.dev)
+
+- [NestJS](https://nestjs.com)
+
 - https://docs.github.com/en
 - https://docs.github.com/en/actions/writing-workflows/quickstart
 - https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project
@@ -43,3 +48,23 @@ collection of various notes, links and resources
 - https://github.com/Aleph-Alpha
 - https://12factor.net
 - https://hackernoon.com
+
+- https://security.apple.com
+
+## YouTube
+
+- https://www.youtube.com/@t3dotgg/videos
+- https://www.youtube.com/@mrdbourke/videos
+- https://www.youtube.com/@NetworkChuck/videos
+- https://www.youtube.com/@ThePrimeTimeagen/videos
+- https://www.youtube.com/@developedbyed/videos
+- https://www.youtube.com/@GitHub/videos
+- https://www.youtube.com/@VercelHQ/videos
+- https://www.youtube.com/@freecodecamp/videos
+- https://www.youtube.com/@kevinfaang/videos
+- https://www.youtube.com/@TravisMedia/videos
+- https://www.youtube.com/@beyondfireship/videos
+- https://www.youtube.com/@TechWithTim/videos
+- https://www.youtube.com/@NeuralNine/videos
+- https://www.youtube.com/@ScottYuJan/videos
+- https://www.youtube.com/@GregHogg/videos
