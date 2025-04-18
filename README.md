@@ -3,20 +3,20 @@
 collection of various notes, links and resources
 
 
-- [Vuetify](https://vuetifyjs.com/en/)
-- [Next.js](https://nextjs.org)
-- [React Native](https://reactnative.dev)
-- [Expo](https://expo.dev)
-- [Flutter](https://flutter.dev)
-- [Ionic Framework](https://ionicframework.com)
-- [NativeScript](https://nativescript.org)
-- [Lynx](https://lynxjs.org)
-- [React](https://react.dev)
-- [Remix](https://remix.run)
-- [Angular](https://angular.dev)
-- [NestJS](https://nestjs.com)
-- [Node.js](https://nodejs.org/en)
-- [Express](https://expressjs.com)
+[Vuetify](https://vuetifyjs.com/en/)  
+[Next.js](https://nextjs.org)  
+[React Native](https://reactnative.dev)  
+[Expo](https://expo.dev)  
+[Flutter](https://flutter.dev)  
+[Ionic Framework](https://ionicframework.com)  
+[NativeScript](https://nativescript.org)  
+[Lynx](https://lynxjs.org)  
+[React](https://react.dev)  
+[Remix](https://remix.run)  
+[Angular](https://angular.dev)  
+[NestJS](https://nestjs.com)  
+[Node.js](https://nodejs.org/en)  
+[Express](https://expressjs.com)  
 
 ## news
 
@@ -119,6 +119,7 @@ collection of various notes, links and resources
 - https://www.youtube.com/@CodingEntrepreneurs/videos
 - https://www.youtube.com/@ycombinator/videos
 - https://www.youtube.com/@CodeWithChris/videos
+- https://www.youtube.com/@AssemblyAI/videos
 
 
 ## AI 🚀
@@ -129,21 +130,27 @@ collection of various notes, links and resources
 [Meta Llama GitHub](https://github.com/meta-llama)  
 [Meta Llama Hugging Face](https://huggingface.co/meta-llama)  
 
-[OpenAI](https://openai.com)
-[OpenAI Blog](https://openai.com/blog)
-[OpenAI GitHub](https://github.com/openai)
-[OpenAI YouTube](https://www.youtube.com/@OpenAI/videos)
+[OpenAI](https://openai.com)  
+[OpenAI Blog](https://openai.com/blog)  
+[OpenAI GitHub](https://github.com/openai)  
+[OpenAI YouTube](https://www.youtube.com/@OpenAI/videos)  
+[OpenAI Developer Community](https://community.openai.com)  
 
-[Xai](https://x.ai)
-[Xai GitHub](https://github.com/xai-org)
+[Ollama](https://ollama.com)  
+[Ollama Blog](https://ollama.com/blog)  
+[Ollama X](https://x.com/ollama)  
+[Ollama GitHub](https://github.com/ollama)  
 
-[Anthropic](https://www.anthropic.com)
-[Anthropic X](https://twitter.com/AnthropicAI)
-[Anthropic LinkedIn](https://www.linkedin.com/company/anthropicresearch/)
-[Anthropic GitHub](https://github.com/anthropics)
-[Anthropic YouTube](https://www.youtube.com/@anthropic-ai/videos)
+[Xai](https://x.ai)  
+[Xai GitHub](https://github.com/xai-org)  
 
-[Mistral AI X](https://x.com/MistralAI)
+[Anthropic](https://www.anthropic.com)  
+[Anthropic X](https://twitter.com/AnthropicAI)  
+[Anthropic LinkedIn](https://www.linkedin.com/company/anthropicresearch/)  
+[Anthropic GitHub](https://github.com/anthropics)  
+[Anthropic YouTube](https://www.youtube.com/@anthropic-ai/videos)  
+
+[Mistral AI X](https://x.com/MistralAI)  
 
 
 ## GitHub
@@ -159,6 +166,7 @@ collection of various notes, links and resources
 - https://github.com/microsoft/AI-For-Beginners
 - https://github.com/celery/celery
 - https://github.com/ollama/ollama
+- https://github.com/apple
 - https://github.com/expo
 - https://github.com/exo-explore
 - https://github.com/ml-explore/mlx
@@ -167,3 +175,8 @@ collection of various notes, links and resources
 - https://github.com/fireship-io
 - https://github.com/vercel/geist-font
 - https://github.com/googleapis
+- https://github.com/pytorch
+- https://github.com/cohere-ai
+- https://github.com/rapidsai
+- https://github.com/developedbyed/
+- https://github.com/aws-neuron
