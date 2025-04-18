@@ -123,11 +123,11 @@ collection of various notes, links and resources
 
 ## AI 🚀
 
-[AI at Meta](https://ai.meta.com)
-[AI at Meta Blog](https://ai.meta.com/blog/)
-[Llama](https://www.llama.com)
-[Meta Llama GitHub](https://github.com/meta-llama)
-[Meta Llama Hugging Face](https://huggingface.co/meta-llama)
+[AI at Meta](https://ai.meta.com)  
+[AI at Meta Blog](https://ai.meta.com/blog/)  
+[Llama](https://www.llama.com)  
+[Meta Llama GitHub](https://github.com/meta-llama)  
+[Meta Llama Hugging Face](https://huggingface.co/meta-llama)  
 
 [OpenAI](https://openai.com)
 [OpenAI Blog](https://openai.com/blog)
