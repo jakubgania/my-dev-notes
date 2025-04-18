@@ -50,9 +50,11 @@ collection of various notes, links and resources
 - https://12factor.net
 - https://hackernoon.com
 - https://security.apple.com
+- https://github.com/mrdbourke/machine-learning-roadmap
 
 ## YouTube
 
+- https://www.youtube.com/@Fireship/videos
 - https://www.youtube.com/@t3dotgg/videos
 - https://www.youtube.com/@mrdbourke/videos
 - https://www.youtube.com/@NetworkChuck/videos
@@ -60,7 +62,9 @@ collection of various notes, links and resources
 - https://www.youtube.com/@developedbyed/videos
 - https://www.youtube.com/@GitHub/videos
 - https://www.youtube.com/@VercelHQ/videos
+- https://www.youtube.com/@AZisk/videos
 - https://www.youtube.com/@freecodecamp/videos
+- https://www.youtube.com/@fknight/videos
 - https://www.youtube.com/@kevinfaang/videos
 - https://www.youtube.com/@TravisMedia/videos
 - https://www.youtube.com/@beyondfireship/videos
@@ -72,6 +76,27 @@ collection of various notes, links and resources
 - https://www.youtube.com/@GregHogg/videos
 - https://www.youtube.com/@3blue1brown/videos
 - https://www.youtube.com/@Indently/videos
+- https://www.youtube.com/@GoogleDevelopers/videos
+- https://www.youtube.com/@googlecloudtech/videos
+- https://www.youtube.com/@WebDevCody/videos
+- https://www.youtube.com/@NeetCode/videos
+- https://www.youtube.com/@codebasics/videos
+- https://www.youtube.com/@interviewpen/videos
+- https://www.youtube.com/@Angular/videos
+- https://www.youtube.com/@devaslife/videos
+- https://www.youtube.com/@JoshuaMorony/videos
+- https://www.youtube.com/@ArjanCodes/videos
+- https://www.youtube.com/@DavidOndrej/videos
+- https://www.youtube.com/@dreamsofcode/videos
+- https://www.youtube.com/@aiDotEngineer/videos
+- https://www.youtube.com/@AaronJack/videos
+- https://www.youtube.com/@YourAverageTechBro/videos
+- https://www.youtube.com/@CodeAesthetic/videos
+- https://www.youtube.com/@javascriptmastery/videos
+- https://www.youtube.com/@CodingWithLewis/videos
+- https://www.youtube.com/@sst-dev/videos
+- https://www.youtube.com/@TinaHuang1/videos
+
 
 ## AI 🚀
 
