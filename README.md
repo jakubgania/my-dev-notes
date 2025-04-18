@@ -18,6 +18,12 @@ collection of various notes, links and resources
 - [Node.js](https://nodejs.org/en)
 - [Express](https://expressjs.com)
 
+## news
+
+- https://techcrunch.com
+- https://news.ycombinator.com
+- https://github.com/trending
+
 ## general
 
 - https://docs.github.com/en
@@ -63,12 +69,15 @@ collection of various notes, links and resources
 - https://www.youtube.com/@GitHub/videos
 - https://www.youtube.com/@VercelHQ/videos
 - https://www.youtube.com/@AZisk/videos
+- https://www.youtube.com/@leerob/videos
 - https://www.youtube.com/@freecodecamp/videos
+- https://www.youtube.com/@WebDevSimplified/videos
 - https://www.youtube.com/@fknight/videos
 - https://www.youtube.com/@kevinfaang/videos
 - https://www.youtube.com/@TravisMedia/videos
 - https://www.youtube.com/@beyondfireship/videos
 - https://www.youtube.com/@TechWithTim/videos
+- https://www.youtube.com/@AndrejKarpathy/videos
 - https://www.youtube.com/@NeuralNine/videos
 - https://www.youtube.com/@ScottYuJan/videos
 - https://www.youtube.com/@ByteByteGo/videos
@@ -78,6 +87,7 @@ collection of various notes, links and resources
 - https://www.youtube.com/@Indently/videos
 - https://www.youtube.com/@GoogleDevelopers/videos
 - https://www.youtube.com/@googlecloudtech/videos
+- https://www.youtube.com/@Firebase/videos
 - https://www.youtube.com/@WebDevCody/videos
 - https://www.youtube.com/@NeetCode/videos
 - https://www.youtube.com/@codebasics/videos
@@ -96,6 +106,19 @@ collection of various notes, links and resources
 - https://www.youtube.com/@CodingWithLewis/videos
 - https://www.youtube.com/@sst-dev/videos
 - https://www.youtube.com/@TinaHuang1/videos
+- https://www.youtube.com/@MelkeyDev/videos
+- https://www.youtube.com/@cultrepo/videos
+- https://www.youtube.com/@joshtriedcoding/videos
+- https://www.youtube.com/@CreatedByKC/videos
+- https://www.youtube.com/@engineerprompt/videos
+- https://www.youtube.com/@CodingGarden/streams
+- https://www.youtube.com/@Codevolution/videos
+- https://www.youtube.com/@samselikoff/videos
+- https://www.youtube.com/@VueMastery/videos
+- https://www.youtube.com/@TechwithLucy/videos
+- https://www.youtube.com/@CodingEntrepreneurs/videos
+- https://www.youtube.com/@ycombinator/videos
+- https://www.youtube.com/@CodeWithChris/videos
 
 
 ## AI 🚀
@@ -105,3 +128,42 @@ collection of various notes, links and resources
 [Llama](https://www.llama.com)
 [Meta Llama GitHub](https://github.com/meta-llama)
 [Meta Llama Hugging Face](https://huggingface.co/meta-llama)
+
+[OpenAI](https://openai.com)
+[OpenAI Blog](https://openai.com/blog)
+[OpenAI GitHub](https://github.com/openai)
+[OpenAI YouTube](https://www.youtube.com/@OpenAI/videos)
+
+[Xai](https://x.ai)
+[Xai GitHub](https://github.com/xai-org)
+
+[Anthropic](https://www.anthropic.com)
+[Anthropic X](https://twitter.com/AnthropicAI)
+[Anthropic LinkedIn](https://www.linkedin.com/company/anthropicresearch/)
+[Anthropic GitHub](https://github.com/anthropics)
+[Anthropic YouTube](https://www.youtube.com/@anthropic-ai/videos)
+
+[Mistral AI X](https://x.com/MistralAI)
+
+
+## GitHub
+
+- https://github.com/geohot
+- https://github.com/leerob
+- https://github.com/johnleider
+- https://github.com/t3dotgg
+- https://github.com/nestjs
+- https://github.com/puppeteer/puppeteer
+- https://github.com/microsoft
+- https://github.com/microsoft/playwright
+- https://github.com/microsoft/AI-For-Beginners
+- https://github.com/celery/celery
+- https://github.com/ollama/ollama
+- https://github.com/expo
+- https://github.com/exo-explore
+- https://github.com/ml-explore/mlx
+- https://github.com/OpenInterpreter
+- https://github.com/shadcn-ui
+- https://github.com/fireship-io
+- https://github.com/vercel/geist-font
+- https://github.com/googleapis
