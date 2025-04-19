@@ -2,8 +2,11 @@
 
 collection of various notes, links and resources
 
-
+[Vue.js](https://vuejs.org)  
 [Vuetify](https://vuetifyjs.com/en/)  
+[Vue Router](https://router.vuejs.org)  
+[Pinia](https://pinia.vuejs.org)  
+[TanStack Query Vue](https://tanstack.com/query/v5/docs/framework/vue/overview)  
 [Next.js](https://nextjs.org)  
 [React Native](https://reactnative.dev)  
 [Expo](https://expo.dev)  
@@ -14,6 +17,7 @@ collection of various notes, links and resources
 [React](https://react.dev)  
 [Remix](https://remix.run)  
 [Angular](https://angular.dev)  
+[Nuxt](https://nuxt.com)  
 [NestJS](https://nestjs.com)  
 [Node.js](https://nodejs.org/en)  
 [Express](https://expressjs.com)  
@@ -49,6 +53,7 @@ collection of various notes, links and resources
 - https://github.com/microsoft/Phi-3CookBook
 - https://github.com/microsoft/AI-For-Beginners
 - https://github.com/huggingface/awesome-huggingface
+- https://github.com/huggingface/swift-chat
 - https://github.com/Alamofire/Alamofire
 - https://github.com/likedan/Awesome-CoreML-Models
 - https://github.com/facebookresearch/fairscale
@@ -60,66 +65,67 @@ collection of various notes, links and resources
 
 ## YouTube
 
-- https://www.youtube.com/@Fireship/videos
-- https://www.youtube.com/@t3dotgg/videos
-- https://www.youtube.com/@mrdbourke/videos
-- https://www.youtube.com/@NetworkChuck/videos
-- https://www.youtube.com/@ThePrimeTimeagen/videos
-- https://www.youtube.com/@developedbyed/videos
-- https://www.youtube.com/@GitHub/videos
-- https://www.youtube.com/@VercelHQ/videos
-- https://www.youtube.com/@AZisk/videos
-- https://www.youtube.com/@leerob/videos
-- https://www.youtube.com/@freecodecamp/videos
-- https://www.youtube.com/@WebDevSimplified/videos
-- https://www.youtube.com/@fknight/videos
-- https://www.youtube.com/@kevinfaang/videos
-- https://www.youtube.com/@TravisMedia/videos
-- https://www.youtube.com/@beyondfireship/videos
-- https://www.youtube.com/@TechWithTim/videos
-- https://www.youtube.com/@AndrejKarpathy/videos
-- https://www.youtube.com/@NeuralNine/videos
-- https://www.youtube.com/@ScottYuJan/videos
-- https://www.youtube.com/@ByteByteGo/videos
-- https://www.youtube.com/@DataCamp/videos
-- https://www.youtube.com/@GregHogg/videos
-- https://www.youtube.com/@3blue1brown/videos
-- https://www.youtube.com/@Indently/videos
-- https://www.youtube.com/@GoogleDevelopers/videos
-- https://www.youtube.com/@googlecloudtech/videos
-- https://www.youtube.com/@Firebase/videos
-- https://www.youtube.com/@WebDevCody/videos
-- https://www.youtube.com/@NeetCode/videos
-- https://www.youtube.com/@codebasics/videos
-- https://www.youtube.com/@interviewpen/videos
-- https://www.youtube.com/@Angular/videos
-- https://www.youtube.com/@devaslife/videos
-- https://www.youtube.com/@JoshuaMorony/videos
-- https://www.youtube.com/@ArjanCodes/videos
-- https://www.youtube.com/@DavidOndrej/videos
-- https://www.youtube.com/@dreamsofcode/videos
-- https://www.youtube.com/@aiDotEngineer/videos
-- https://www.youtube.com/@AaronJack/videos
-- https://www.youtube.com/@YourAverageTechBro/videos
-- https://www.youtube.com/@CodeAesthetic/videos
-- https://www.youtube.com/@javascriptmastery/videos
-- https://www.youtube.com/@CodingWithLewis/videos
-- https://www.youtube.com/@sst-dev/videos
-- https://www.youtube.com/@TinaHuang1/videos
-- https://www.youtube.com/@MelkeyDev/videos
-- https://www.youtube.com/@cultrepo/videos
-- https://www.youtube.com/@joshtriedcoding/videos
-- https://www.youtube.com/@CreatedByKC/videos
-- https://www.youtube.com/@engineerprompt/videos
-- https://www.youtube.com/@CodingGarden/streams
-- https://www.youtube.com/@Codevolution/videos
-- https://www.youtube.com/@samselikoff/videos
-- https://www.youtube.com/@VueMastery/videos
-- https://www.youtube.com/@TechwithLucy/videos
-- https://www.youtube.com/@CodingEntrepreneurs/videos
-- https://www.youtube.com/@ycombinator/videos
-- https://www.youtube.com/@CodeWithChris/videos
-- https://www.youtube.com/@AssemblyAI/videos
+- [@Fireship](https://www.youtube.com/@Fireship/videos)
+- [@t3dotgg](https://www.youtube.com/@t3dotgg/videos)
+- [@mrdbourke](https://www.youtube.com/@mrdbourke/videos)
+- [@NetworkChuck](https://www.youtube.com/@NetworkChuck/videos)
+- [@ThePrimeTimeagen](https://www.youtube.com/@ThePrimeTimeagen/videos)
+- [@developedbyed](https://www.youtube.com/@developedbyed/videos)
+- [@GitHub](https://www.youtube.com/@GitHub/videos)
+- [@VercelHQ](https://www.youtube.com/@VercelHQ/videos)
+- [@AZisk](https://www.youtube.com/@AZisk/videos)
+- [@leerob](https://www.youtube.com/@leerob/videos)
+- [@freecodecamp](https://www.youtube.com/@freecodecamp/videos)
+- [@WebDevSimplified](https://www.youtube.com/@WebDevSimplified/videos)
+- [@fknight](https://www.youtube.com/@fknight/videos)
+- [@kevinfaang](https://www.youtube.com/@kevinfaang/videos)
+- [@TravisMedia](https://www.youtube.com/@TravisMedia/videos)
+- [@beyondfireship](https://www.youtube.com/@beyondfireship/videos)
+- [@TechWithTim](https://www.youtube.com/@TechWithTim/videos)
+- [@AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy/videos)
+- [@NeuralNine](https://www.youtube.com/@NeuralNine/videos)
+- [@ScottYuJan](https://www.youtube.com/@ScottYuJan/videos)
+- [@ByteByteGo](https://www.youtube.com/@ByteByteGo/videos)
+- [@DataCamp](https://www.youtube.com/@DataCamp/videos)
+- [@GregHogg](https://www.youtube.com/@GregHogg/videos)
+- [@3blue1brown](https://www.youtube.com/@3blue1brown/videos)
+- [@Indently](https://www.youtube.com/@Indently/videos)
+- [@GoogleDevelopers](https://www.youtube.com/@GoogleDevelopers/videos)
+- [@googlecloudtech](https://www.youtube.com/@googlecloudtech/videos)
+- [@Firebase](https://www.youtube.com/@Firebase/videos)
+- [@WebDevCody](https://www.youtube.com/@WebDevCody/videos)
+- [@NeetCode](https://www.youtube.com/@NeetCode/videos)
+- [@codebasics](https://www.youtube.com/@codebasics/videos)
+- [@interviewpen](https://www.youtube.com/@interviewpen/videos)
+- [@Angular](https://www.youtube.com/@Angular/videos)
+- [@devaslife](https://www.youtube.com/@devaslife/videos)
+- [@JoshuaMorony](https://www.youtube.com/@JoshuaMorony/videos)
+- [@ArjanCodes](https://www.youtube.com/@ArjanCodes/videos)
+- [@DavidOndrej](https://www.youtube.com/@DavidOndrej/videos)
+- [@dreamsofcode](https://www.youtube.com/@dreamsofcode/videos)
+- [@aiDotEngineer](https://www.youtube.com/@aiDotEngineer/videos)
+- [@AaronJack](https://www.youtube.com/@AaronJack/videos)
+- [@YourAverageTechBro](https://www.youtube.com/@YourAverageTechBro/videos)
+- [@CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)
+- [@javascriptmastery](https://www.youtube.com/@javascriptmastery/videos)
+- [@CodingWithLewis](https://www.youtube.com/@CodingWithLewis/videos)
+- [@sst-dev](https://www.youtube.com/@sst-dev/videos)
+- [@TinaHuang1](https://www.youtube.com/@TinaHuang1/videos)
+- [@MelkeyDev](https://www.youtube.com/@MelkeyDev/videos)
+- [@cultrepo](https://www.youtube.com/@cultrepo/videos)
+- [@joshtriedcoding](https://www.youtube.com/@joshtriedcoding/videos)
+- [@CreatedByKC](https://www.youtube.com/@CreatedByKC/videos)
+- [@engineerprompt](https://www.youtube.com/@engineerprompt/videos)
+- [@CodingGarden](https://www.youtube.com/@CodingGarden/streams)
+- [@Codevolution](https://www.youtube.com/@Codevolution/videos)
+- [@samselikoff](https://www.youtube.com/@samselikoff/videos)
+- [@VueMastery](https://www.youtube.com/@VueMastery/videos)
+- [@TechwithLucy](https://www.youtube.com/@TechwithLucy/videos)
+- [@CodingEntrepreneurs](https://www.youtube.com/@CodingEntrepreneurs/videos)
+- [@ycombinator](https://www.youtube.com/@ycombinator/videos)
+- [@CodeWithChris](https://www.youtube.com/@CodeWithChris/videos)
+- [@AssemblyAI](https://www.youtube.com/@AssemblyAI/videos)
+- [@daveebbelaar](https://www.youtube.com/@daveebbelaar/videos)
 
 
 ## AI 🚀
@@ -180,3 +186,17 @@ collection of various notes, links and resources
 - https://github.com/rapidsai
 - https://github.com/developedbyed/
 - https://github.com/aws-neuron
+- https://github.com/open-mmlab
+- https://github.com/All-Hands-AI/OpenHands
+- https://github.com/Lightning-AI
+- https://github.com/open-webui/open-webui
+
+## terminal commands
+
+`curl --head --write-out '%{http_code}\n%{http_version}\n%{url.host}\n' https://github.com`
+
+`curl https://github.com`
+
+`curl -G https://api.github.com/users/jakubgania/followers -d per_page=100 | fx '.[].login' sort`
+
+`* curl -G https://api.github.com/users/jakubgania/following -d "per_page=100&page_2" | fx '.[].login' sort`
