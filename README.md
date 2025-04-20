@@ -27,6 +27,7 @@ collection of various notes, links and resources
 - https://techcrunch.com
 - https://news.ycombinator.com
 - https://github.com/trending
+- https://github.com/explore
 
 ## general
 
@@ -34,22 +35,19 @@ collection of various notes, links and resources
 - https://docs.github.com/en/actions/writing-workflows/quickstart
 - https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project
 - https://cli.github.com
-- https://github.com/explore
 - https://github.com/readme/stories/evan-you
 - https://roadmap.sh
 - https://www.typescriptlang.org
 - https://www.totaltypescript.com/books/total-typescript-essentials
 - https://hub.docker.com/u/ai
 - https://docs.docker.com/desktop/features/model-runner/
-- https://github.com/apple/ml-stable-diffusion
 - https://github.com/lmstudio-ai/mlx-engine
 - https://github.com/ollama/ollama/issues/1578
 - https://github.com/ollama/ollama/issues/1730
 - https://github.com/ollama/ollama/issues/3898
 - https://github.com/ml-explore
-- https://github.com/apple/ml-stable-diffusion
-- https://github.com/xai-org
-- https://github.com/openai
+- https://engineering.fb.com
+- https://github.com/vercel/next.js/discussions/63775
 - https://github.com/microsoft/Phi-3CookBook
 - https://github.com/microsoft/AI-For-Beginners
 - https://github.com/huggingface/awesome-huggingface
@@ -126,7 +124,11 @@ collection of various notes, links and resources
 - [@CodeWithChris](https://www.youtube.com/@CodeWithChris/videos)
 - [@AssemblyAI](https://www.youtube.com/@AssemblyAI/videos)
 - [@daveebbelaar](https://www.youtube.com/@daveebbelaar/videos)
-
+- [@AivarsMeijers](https://www.youtube.com/@AivarsMeijers/videos)
+- [@samwitteveenai](https://www.youtube.com/@samwitteveenai/videos)
+- [@aiexplained-official](https://www.youtube.com/@aiexplained-official/videos)
+- [@JohnWatsonRooney](https://www.youtube.com/@JohnWatsonRooney/videos)
+- [@bawad](https://www.youtube.com/@bawad/videos)
 
 ## AI 🚀
 
@@ -162,6 +164,7 @@ collection of various notes, links and resources
 ## GitHub
 
 - https://github.com/geohot
+- https://github.com/tinygrad
 - https://github.com/leerob
 - https://github.com/johnleider
 - https://github.com/t3dotgg
@@ -170,6 +173,7 @@ collection of various notes, links and resources
 - https://github.com/microsoft
 - https://github.com/microsoft/playwright
 - https://github.com/microsoft/AI-For-Beginners
+- https://github.com/microsoft/promptbase
 - https://github.com/celery/celery
 - https://github.com/ollama/ollama
 - https://github.com/apple
@@ -184,12 +188,16 @@ collection of various notes, links and resources
 - https://github.com/pytorch
 - https://github.com/cohere-ai
 - https://github.com/rapidsai
+- https://github.com/ml-tooling
 - https://github.com/developedbyed/
 - https://github.com/aws-neuron
 - https://github.com/open-mmlab
 - https://github.com/All-Hands-AI/OpenHands
 - https://github.com/Lightning-AI
 - https://github.com/open-webui/open-webui
+- https://github.com/apple/ml-stable-diffusion
+- https://github.com/TheAlgorithms
+- https://github.com/Netflix/chaosmonkey
 
 ## terminal commands
 
