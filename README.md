@@ -61,7 +61,7 @@ collection of various notes, links and resources
 - https://security.apple.com
 - https://github.com/mrdbourke/machine-learning-roadmap
 
-## YouTube
+## YouTube 📺
 
 - [@Fireship](https://www.youtube.com/@Fireship/videos)
 - [@geohotarchive](https://www.youtube.com/@geohotarchive/videos)
@@ -119,6 +119,7 @@ collection of various notes, links and resources
 - [@Codevolution](https://www.youtube.com/@Codevolution/videos)
 - [@samselikoff](https://www.youtube.com/@samselikoff/videos)
 - [@VueMastery](https://www.youtube.com/@VueMastery/videos)
+- [@TailwindLabs](https://www.youtube.com/@TailwindLabs/videos)
 - [@TechwithLucy](https://www.youtube.com/@TechwithLucy/videos)
 - [@CodingEntrepreneurs](https://www.youtube.com/@CodingEntrepreneurs/videos)
 - [@ycombinator](https://www.youtube.com/@ycombinator/videos)
@@ -137,15 +138,22 @@ collection of various notes, links and resources
 - [@Computerphile](https://www.youtube.com/@Computerphile/videos)  
 - [@techwithsoleyman](https://www.youtube.com/@techwithsoleyman/videos)
 - [@TuomoKankaanpaa](https://www.youtube.com/@TuomoKankaanpaa/videos)
-
+- [@clem](https://www.youtube.com/@clem/videos)
+- [@Thuvu5](https://www.youtube.com/@Thuvu5/videos)
+- [@_JohnHammond](https://www.youtube.com/@_JohnHammond/videos)
 - [Python Celery Distributed Task Queue | End to End Application with Celery](https://www.youtube.com/watch?v=b2kdhkUXI2U)
+- [Build your first REST API with Flask and PostgreSQL](https://www.youtube.com/watch?v=DlNIXC9SaF4)
 - [How to Run a Python Docker Image on AWS Lambda](https://www.youtube.com/watch?v=wbsbXfkv47A)  
 - [How I would learn Machine Learning (if I could start over)](https://www.youtube.com/watch?v=wtolixa9XTg)  
 - [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)  
 - [AWS Cloud Certification Roadmap for Beginners (2025)](https://www.youtube.com/watch?v=mjp0PpamjEU)
-
 - [Advice for machine learning beginners | Andrej Karpathy and Lex Fridman](https://www.youtube.com/watch?v=I2ZK3ngNvvI)
 - [How Nvidia Grew From Gaming To A.I. Giant, Now Powering ChatGPT](https://www.youtube.com/watch?v=d3L2uPuxOxU)
+
+## Articles 📄
+
+
+
 ## AI 🚀
 
 [AI at Meta](https://ai.meta.com)  
@@ -176,11 +184,16 @@ collection of various notes, links and resources
 
 [Mistral AI X](https://x.com/MistralAI)  
 
+[Model Context Protocol](https://modelcontextprotocol.io/introduction)  
+[Model Context Protocol X Community](https://x.com/MCP_Community)  
+[Model Context Protocol GitHub](https://github.com/modelcontextprotocol)  
+
+
 [Apple Developer - Machine Learning](https://developer.apple.com/machine-learning/)  
 [Apple Developer - TensorFlow Plugin](https://developer.apple.com/metal/tensorflow-plugin/)
 
 
-## GitHub
+## GitHub 👨‍💻
 
 - [geohot](https://github.com/geohot)
 - [tinygrad](https://github.com/tinygrad)
@@ -221,7 +234,6 @@ collection of various notes, links and resources
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey)  
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 - [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)  
-
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 
 ## terminal commands
