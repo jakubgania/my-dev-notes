@@ -64,6 +64,7 @@ collection of various notes, links and resources
 ## YouTube
 
 - [@Fireship](https://www.youtube.com/@Fireship/videos)
+- [@geohotarchive](https://www.youtube.com/@geohotarchive/videos)
 - [@t3dotgg](https://www.youtube.com/@t3dotgg/videos)
 - [@mrdbourke](https://www.youtube.com/@mrdbourke/videos)
 - [@NetworkChuck](https://www.youtube.com/@NetworkChuck/videos)
@@ -128,8 +129,23 @@ collection of various notes, links and resources
 - [@samwitteveenai](https://www.youtube.com/@samwitteveenai/videos)
 - [@aiexplained-official](https://www.youtube.com/@aiexplained-official/videos)
 - [@JohnWatsonRooney](https://www.youtube.com/@JohnWatsonRooney/videos)
-- [@bawad](https://www.youtube.com/@bawad/videos)
+- [@bawad](https://www.youtube.com/@bawad/videos)  
+- [@huxnwebdev](https://www.youtube.com/@huxnwebdev/videos)  
+- [@Kavsoft](https://www.youtube.com/@Kavsoft/videos)  
+- [@seanallen](https://www.youtube.com/@seanallen/videos)
+- [@streamdevelopers](https://www.youtube.com/@streamdevelopers/videos)  
+- [@Computerphile](https://www.youtube.com/@Computerphile/videos)  
+- [@techwithsoleyman](https://www.youtube.com/@techwithsoleyman/videos)
+- [@TuomoKankaanpaa](https://www.youtube.com/@TuomoKankaanpaa/videos)
 
+- [Python Celery Distributed Task Queue | End to End Application with Celery](https://www.youtube.com/watch?v=b2kdhkUXI2U)
+- [How to Run a Python Docker Image on AWS Lambda](https://www.youtube.com/watch?v=wbsbXfkv47A)  
+- [How I would learn Machine Learning (if I could start over)](https://www.youtube.com/watch?v=wtolixa9XTg)  
+- [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)  
+- [AWS Cloud Certification Roadmap for Beginners (2025)](https://www.youtube.com/watch?v=mjp0PpamjEU)
+
+- [Advice for machine learning beginners | Andrej Karpathy and Lex Fridman](https://www.youtube.com/watch?v=I2ZK3ngNvvI)
+- [How Nvidia Grew From Gaming To A.I. Giant, Now Powering ChatGPT](https://www.youtube.com/watch?v=d3L2uPuxOxU)
 ## AI 🚀
 
 [AI at Meta](https://ai.meta.com)  
@@ -159,6 +175,9 @@ collection of various notes, links and resources
 [Anthropic YouTube](https://www.youtube.com/@anthropic-ai/videos)  
 
 [Mistral AI X](https://x.com/MistralAI)  
+
+[Apple Developer - Machine Learning](https://developer.apple.com/machine-learning/)  
+[Apple Developer - TensorFlow Plugin](https://developer.apple.com/metal/tensorflow-plugin/)
 
 
 ## GitHub
@@ -191,13 +210,19 @@ collection of various notes, links and resources
 - [ml-tooling](https://github.com/ml-tooling)
 - [developedbyed](https://github.com/developedbyed)
 - [aws-neuron](https://github.com/aws-neuron)
+- [boto/boto3](https://github.com/boto/boto3)
+- [awsdocs](https://github.com/awsdocs)
 - [open-mmlab](https://github.com/open-mmlab)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
 - [Lightning-AI](https://github.com/Lightning-AI)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
 - [TheAlgorithms](https://github.com/TheAlgorithms)
-- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey)
+- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey)  
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
+- [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)  
+
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 
 ## terminal commands
 
