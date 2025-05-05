@@ -1,4 +1,4 @@
-# my dev notes
+# my dev notes ✨
 
 collection of various notes, links and resources
 
@@ -22,14 +22,14 @@ collection of various notes, links and resources
 [Node.js](https://nodejs.org/en)  
 [Express](https://expressjs.com)  
 
-## news
+# news
 
 - https://techcrunch.com
 - https://news.ycombinator.com
 - https://github.com/trending
 - https://github.com/explore
 
-## general
+# General 📡
 
 - https://docs.github.com/en
 - https://docs.github.com/en/actions/writing-workflows/quickstart
@@ -38,6 +38,7 @@ collection of various notes, links and resources
 - https://github.com/readme/stories/evan-you
 - https://roadmap.sh
 - https://www.typescriptlang.org
+- https://developers.facebook.com/social-technologies/products
 - https://www.totaltypescript.com/books/total-typescript-essentials
 - https://hub.docker.com/u/ai
 - https://docs.docker.com/desktop/features/model-runner/
@@ -61,7 +62,7 @@ collection of various notes, links and resources
 - https://security.apple.com
 - https://github.com/mrdbourke/machine-learning-roadmap
 
-## YouTube 📺
+# YouTube 📺
 
 - [@Fireship](https://www.youtube.com/@Fireship/videos)
 - [@geohotarchive](https://www.youtube.com/@geohotarchive/videos)
@@ -159,16 +160,22 @@ collection of various notes, links and resources
 - [How Shazam IDs Over 23,000 Songs Each Minute | WSJ Tech Behind](https://www.youtube.com/watch?v=b6xeOLjeKs0)
 - [How to Use NVIDIA ChatRTX | AI Chatbot Using Your Files](https://www.youtube.com/watch?v=wZ4sPUcdlO4)
 
-## Articles 📄
+# Articles 📄
 
 [How to Use FAISS to Build Your First Similarity Search](https://medium.com/loopio-tech/how-to-use-faiss-to-build-your-first-similarity-search-bf0f708aa772)  
 [Multithreading and Multiprocessing with Selenium](https://www.kaggle.com/code/krityodp/multithreading-and-multiprocessing-with-selenium)  
 [Running scheduled Python tasks in a Docker container](https://nschdr.medium.com/running-scheduled-python-tasks-in-a-docker-container-bf9ea2e8a66c)  
 [TensorFlow GPU Setup (2024)](https://medium.com/@david.petrofsky/tensorflow-gpu-setup-2024-d9bc2b04b5c5)  
+[Deploying LLMs locally with Apple’s MLX framework](https://towardsdatascience.com/deploying-llms-locally-with-apples-mlx-framework-2b3862049a93/)  
+[LLM Everywhere: Docker for Local and Hugging Face Hosting](https://www.docker.com/blog/llm-docker-for-local-and-hugging-face-hosting/)  
+[Hardware for Deep Learning. Part 1: Introduction](https://moocaholic.medium.com/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)  
+[Hardware for Deep Learning. Part 2: CPU](https://moocaholic.medium.com/cpu-hardware-for-deep-learning-b91f53cb18af)  
+[Hardware for Deep Learning. Part 3: GPU](https://moocaholic.medium.com/hardware-for-deep-learning-part-3-gpu-8906c1644664)    
+[Hardware for Deep Learning. Part 4: ASIC](https://moocaholic.medium.com/hardware-for-deep-learning-part-4-asic-96a542fe6a81#3b39)  
 
 [GitHub Profile Optimization](https://medium.com/@zachshallbetter/github-profile-tuning-a-senior-developers-guide-to-job-seeking-5aceacbe704b)  
 
-## AI 🚀
+# AI 🚀
 
 [AI at Meta](https://ai.meta.com)  
 [AI at Meta Blog](https://ai.meta.com/blog/)  
@@ -207,7 +214,7 @@ collection of various notes, links and resources
 [Apple Developer - TensorFlow Plugin](https://developer.apple.com/metal/tensorflow-plugin/)
 
 
-## GitHub 👨‍💻
+# GitHub 👨‍💻
 
 - [geohot](https://github.com/geohot)
 - [ggerganov](https://github.com/ggerganov)
@@ -242,6 +249,7 @@ collection of various notes, links and resources
 - [awsdocs](https://github.com/awsdocs)
 - [open-mmlab](https://github.com/open-mmlab)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [Lightning-AI](https://github.com/Lightning-AI)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
@@ -252,7 +260,7 @@ collection of various notes, links and resources
 - [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)  
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 
-## terminal commands
+# terminal commands
 
 `curl --head --write-out '%{http_code}\n%{http_version}\n%{url.host}\n' https://github.com`
 
