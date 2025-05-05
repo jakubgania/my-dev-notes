@@ -161,7 +161,12 @@ collection of various notes, links and resources
 
 ## Articles 📄
 
+[How to Use FAISS to Build Your First Similarity Search](https://medium.com/loopio-tech/how-to-use-faiss-to-build-your-first-similarity-search-bf0f708aa772)  
+[Multithreading and Multiprocessing with Selenium](https://www.kaggle.com/code/krityodp/multithreading-and-multiprocessing-with-selenium)  
+[Running scheduled Python tasks in a Docker container](https://nschdr.medium.com/running-scheduled-python-tasks-in-a-docker-container-bf9ea2e8a66c)  
+[TensorFlow GPU Setup (2024)](https://medium.com/@david.petrofsky/tensorflow-gpu-setup-2024-d9bc2b04b5c5)  
 
+[GitHub Profile Optimization](https://medium.com/@zachshallbetter/github-profile-tuning-a-senior-developers-guide-to-job-seeking-5aceacbe704b)  
 
 ## AI 🚀
 
@@ -205,6 +210,7 @@ collection of various notes, links and resources
 ## GitHub 👨‍💻
 
 - [geohot](https://github.com/geohot)
+- [ggerganov](https://github.com/ggerganov)
 - [tinygrad](https://github.com/tinygrad)
 - [leerob](https://github.com/leerob)
 - [johnleider](https://github.com/johnleider)
