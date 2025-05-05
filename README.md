@@ -41,7 +41,7 @@ collection of various notes, links and resources
 - https://www.totaltypescript.com/books/total-typescript-essentials
 - https://hub.docker.com/u/ai
 - https://docs.docker.com/desktop/features/model-runner/
-- https://github.com/lmstudio-ai/mlx-engine
+- https://developer.apple.com/documentation/
 - https://github.com/ollama/ollama/issues/1578
 - https://github.com/ollama/ollama/issues/1730
 - https://github.com/ollama/ollama/issues/3898
@@ -141,14 +141,23 @@ collection of various notes, links and resources
 - [@clem](https://www.youtube.com/@clem/videos)
 - [@Thuvu5](https://www.youtube.com/@Thuvu5/videos)
 - [@_JohnHammond](https://www.youtube.com/@_JohnHammond/videos)
+- [@StewartLynch](https://www.youtube.com/@StewartLynch/videos)
+- [SwiftData CRUD Operations](https://www.youtube.com/watch?v=CAr_1kcf2_c)
+- [Introduction – SwiftData Starter Project 1/8](https://www.youtube.com/watch?v=FEKCAzPAtpg)
+- [SwiftUI Fundamentals | FULL COURSE | Beginner Friendly](https://www.youtube.com/watch?v=b1oC7sLIgpI)
+- [How to use async/await + SwiftUI + MVVM + API Call (URLSession) + Swift in Xcode-15 (iOS Dev)](https://www.youtube.com/watch?v=Pc_mWuAldLw)
 - [Python Celery Distributed Task Queue | End to End Application with Celery](https://www.youtube.com/watch?v=b2kdhkUXI2U)
 - [Build your first REST API with Flask and PostgreSQL](https://www.youtube.com/watch?v=DlNIXC9SaF4)
 - [How to Run a Python Docker Image on AWS Lambda](https://www.youtube.com/watch?v=wbsbXfkv47A)  
 - [How I would learn Machine Learning (if I could start over)](https://www.youtube.com/watch?v=wtolixa9XTg)  
+- [Learn PyTorch for deep learning in a day. Literally](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+- [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w)
 - [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)  
 - [AWS Cloud Certification Roadmap for Beginners (2025)](https://www.youtube.com/watch?v=mjp0PpamjEU)
 - [Advice for machine learning beginners | Andrej Karpathy and Lex Fridman](https://www.youtube.com/watch?v=I2ZK3ngNvvI)
 - [How Nvidia Grew From Gaming To A.I. Giant, Now Powering ChatGPT](https://www.youtube.com/watch?v=d3L2uPuxOxU)
+- [How Shazam IDs Over 23,000 Songs Each Minute | WSJ Tech Behind](https://www.youtube.com/watch?v=b6xeOLjeKs0)
+- [How to Use NVIDIA ChatRTX | AI Chatbot Using Your Files](https://www.youtube.com/watch?v=wZ4sPUcdlO4)
 
 ## Articles 📄
 
@@ -230,6 +239,7 @@ collection of various notes, links and resources
 - [Lightning-AI](https://github.com/Lightning-AI)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
+- [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine)  
 - [TheAlgorithms](https://github.com/TheAlgorithms)
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey)  
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
