@@ -45,12 +45,11 @@ collection of various notes, links and resources
 - https://developer.apple.com/documentation/
 - https://github.com/ollama/ollama/issues/1578
 - https://github.com/ollama/ollama/issues/1730
+- https://github.com/ollama/ollama/issues/1806
 - https://github.com/ollama/ollama/issues/3898
-- https://github.com/ml-explore
 - https://engineering.fb.com
 - https://github.com/vercel/next.js/discussions/63775
 - https://github.com/microsoft/Phi-3CookBook
-- https://github.com/microsoft/AI-For-Beginners
 - https://github.com/huggingface/awesome-huggingface
 - https://github.com/huggingface/swift-chat
 - https://github.com/Alamofire/Alamofire
@@ -77,6 +76,7 @@ collection of various notes, links and resources
 - [@leerob](https://www.youtube.com/@leerob/videos)
 - [@freecodecamp](https://www.youtube.com/@freecodecamp/videos)
 - [@WebDevSimplified](https://www.youtube.com/@WebDevSimplified/videos)
+- [@JavaScriptMastery](https://www.youtube.com/@JavaScriptMastery/videos)
 - [@fknight](https://www.youtube.com/@fknight/videos)
 - [@kevinfaang](https://www.youtube.com/@kevinfaang/videos)
 - [@TravisMedia](https://www.youtube.com/@TravisMedia/videos)
@@ -143,6 +143,7 @@ collection of various notes, links and resources
 - [@Thuvu5](https://www.youtube.com/@Thuvu5/videos)
 - [@_JohnHammond](https://www.youtube.com/@_JohnHammond/videos)
 - [@StewartLynch](https://www.youtube.com/@StewartLynch/videos)
+- [@ReactConfOfficial](https://www.youtube.com/@ReactConfOfficial/videos)
 - [SwiftData CRUD Operations](https://www.youtube.com/watch?v=CAr_1kcf2_c)
 - [Introduction – SwiftData Starter Project 1/8](https://www.youtube.com/watch?v=FEKCAzPAtpg)
 - [SwiftUI Fundamentals | FULL COURSE | Beginner Friendly](https://www.youtube.com/watch?v=b1oC7sLIgpI)
@@ -167,20 +168,32 @@ collection of various notes, links and resources
 [Running scheduled Python tasks in a Docker container](https://nschdr.medium.com/running-scheduled-python-tasks-in-a-docker-container-bf9ea2e8a66c)  
 [TensorFlow GPU Setup (2024)](https://medium.com/@david.petrofsky/tensorflow-gpu-setup-2024-d9bc2b04b5c5)  
 [Deploying LLMs locally with Apple’s MLX framework](https://towardsdatascience.com/deploying-llms-locally-with-apples-mlx-framework-2b3862049a93/)  
+[Running Large Language Models (Llama 3) on Apple Silicon with Apple’s MLX Framework](https://medium.com/@manuelescobar-dev/running-large-language-models-llama-3-on-apple-silicon-with-apples-mlx-framework-4f4ee6e15f31)  
+[Apple Silicon GPUs, Docker and Ollama: Pick two](https://chariotsolutions.com/blog/post/apple-silicon-gpus-docker-and-ollama-pick-two/)  
 [LLM Everywhere: Docker for Local and Hugging Face Hosting](https://www.docker.com/blog/llm-docker-for-local-and-hugging-face-hosting/)  
+[Ollama 0.2 — revolutionizing local model management with concurrency](https://medium.com/@simeon.emanuilov/ollama-0-2-revolutionizing-local-model-management-with-concurrency-2318115ce961)  
+[Setting Up Ollama & Running DeepSeek R1 Locally for a Powerful RAG System](https://dev.to/ajmal_hasan/setting-up-ollama-running-deepseek-r1-locally-for-a-powerful-rag-system-4pd4)  
 [Hardware for Deep Learning. Part 1: Introduction](https://moocaholic.medium.com/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)  
 [Hardware for Deep Learning. Part 2: CPU](https://moocaholic.medium.com/cpu-hardware-for-deep-learning-b91f53cb18af)  
 [Hardware for Deep Learning. Part 3: GPU](https://moocaholic.medium.com/hardware-for-deep-learning-part-3-gpu-8906c1644664)    
 [Hardware for Deep Learning. Part 4: ASIC](https://moocaholic.medium.com/hardware-for-deep-learning-part-4-asic-96a542fe6a81#3b39)  
 
+[Asynchronous Tasks with FastAPI and Celery](https://testdriven.io/blog/fastapi-and-celery/)
+[Using MinIO with Docker and Python](https://medium.com/@sant1/using-minio-with-docker-and-python-cbbad397cb5d)  
+[Docker image - minio/minio](https://hub.docker.com/r/minio/minio)
+
 [GitHub Profile Optimization](https://medium.com/@zachshallbetter/github-profile-tuning-a-senior-developers-guide-to-job-seeking-5aceacbe704b)  
 
 # AI 🚀
+
+[Hugging Face Hub documentation](https://huggingface.co/docs/hub/en/index)  
 
 [AI at Meta](https://ai.meta.com)  
 [AI at Meta Blog](https://ai.meta.com/blog/)  
 [Llama](https://www.llama.com)  
 [Meta Llama GitHub](https://github.com/meta-llama)  
+[Meta Llama GitHub - llama-cookbook](https://github.com/meta-llama/llama-cookbook)  
+[Meta Llama GitHub - llama-stack](https://github.com/meta-llama/llama-stack/tree/main)  
 [Meta Llama Hugging Face](https://huggingface.co/meta-llama)  
 
 [OpenAI](https://openai.com)  
@@ -193,6 +206,7 @@ collection of various notes, links and resources
 [Ollama Blog](https://ollama.com/blog)  
 [Ollama X](https://x.com/ollama)  
 [Ollama GitHub](https://github.com/ollama)  
+[Ollama Docker Image](https://hub.docker.com/r/ollama/ollama)
 
 [Xai](https://x.ai)  
 [Xai GitHub](https://github.com/xai-org)  
@@ -209,6 +223,7 @@ collection of various notes, links and resources
 [Model Context Protocol X Community](https://x.com/MCP_Community)  
 [Model Context Protocol GitHub](https://github.com/modelcontextprotocol)  
 
+[MLX Docs](https://ml-explore.github.io/mlx/build/html/index.html)
 
 [Apple Developer - Machine Learning](https://developer.apple.com/machine-learning/)  
 [Apple Developer - TensorFlow Plugin](https://developer.apple.com/metal/tensorflow-plugin/)
@@ -228,11 +243,13 @@ collection of various notes, links and resources
 - [microsoft/playwright](https://github.com/microsoft/playwright)
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [microsoft/promptbase](https://github.com/microsoft/promptbase)
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python)
 - [celery/celery](https://github.com/celery/celery)
 - [ollama/ollama](https://github.com/ollama/ollama)
 - [apple](https://github.com/apple)
 - [expo](https://github.com/expo)
 - [exo-explore](https://github.com/exo-explore)
+- [expo/react-conf-app](https://github.com/expo/react-conf-app)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx)
 - [OpenInterpreter](https://github.com/OpenInterpreter)
 - [shadcn-ui](https://github.com/shadcn-ui)
@@ -259,6 +276,10 @@ collection of various notes, links and resources
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 - [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)  
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+- [rasbt/LLMs-from-scratch - 01_optional-python-setup-preferences](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)  
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+
 
 # terminal commands
 
