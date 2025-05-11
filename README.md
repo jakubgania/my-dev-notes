@@ -60,6 +60,13 @@ collection of various notes, links and resources
 - https://hackernoon.com
 - https://security.apple.com
 - https://github.com/mrdbourke/machine-learning-roadmap
+- https://www.freecodecamp.org/news/react-props-cheatsheet/
+- https://dev.to/wheelmaker24/a-simple-strategy-for-structuring-tailwindcss-classnames-1ba9
+- https://web.dev
+- https://developer.chrome.com/docs
+- https://developer.chrome.com/docs/devtools/overrides/
+- https://developer.chrome.com/docs/extensions/develop/ui/override-chrome-pages
+- https://vercel.com/blog/category/engineering
 
 # YouTube 📺
 
@@ -78,6 +85,7 @@ collection of various notes, links and resources
 - [@WebDevSimplified](https://www.youtube.com/@WebDevSimplified/videos)
 - [@JavaScriptMastery](https://www.youtube.com/@JavaScriptMastery/videos)
 - [@fknight](https://www.youtube.com/@fknight/videos)
+- [@Hallden_](https://www.youtube.com/@Hallden_/videos)
 - [@kevinfaang](https://www.youtube.com/@kevinfaang/videos)
 - [@TravisMedia](https://www.youtube.com/@TravisMedia/videos)
 - [@beyondfireship](https://www.youtube.com/@beyondfireship/videos)
@@ -231,6 +239,10 @@ collection of various notes, links and resources
 [Apple Developer - Machine Learning](https://developer.apple.com/machine-learning/)  
 [Apple Developer - TensorFlow Plugin](https://developer.apple.com/metal/tensorflow-plugin/)
 
+[LangChain](https://www.langchain.com)  
+[LangChain X](https://x.com/LangChainAI)  
+[LangChain GitHub](https://github.com/langchain-ai)  
+[LangChain YouTube](https://www.youtube.com/@LangChain/videos)  
 
 # GitHub 👨‍💻
 
