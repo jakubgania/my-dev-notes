@@ -5,6 +5,7 @@ collection of various notes, links and resources
 [Vue.js](https://vuejs.org)  
 [Vuetify](https://vuetifyjs.com/en/)  
 [Vue Router](https://router.vuejs.org)  
+[Vite](https://vite.dev)  
 [Pinia](https://pinia.vuejs.org)  
 [TanStack Query Vue](https://tanstack.com/query/v5/docs/framework/vue/overview)  
 [Next.js](https://nextjs.org)  
@@ -33,6 +34,7 @@ collection of various notes, links and resources
 
 - https://docs.github.com/en
 - https://docs.github.com/en/actions/writing-workflows/quickstart
+- https://docs.github.com/en/actions/about-github-actions/understanding-github-actions
 - https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project
 - https://cli.github.com
 - https://github.com/readme/stories/evan-you
@@ -63,6 +65,7 @@ collection of various notes, links and resources
 - https://www.freecodecamp.org/news/react-props-cheatsheet/
 - https://dev.to/wheelmaker24/a-simple-strategy-for-structuring-tailwindcss-classnames-1ba9
 - https://web.dev
+- https://devhints.io
 - https://developer.chrome.com/docs
 - https://developer.chrome.com/docs/devtools/overrides/
 - https://developer.chrome.com/docs/extensions/develop/ui/override-chrome-pages
@@ -243,6 +246,11 @@ collection of various notes, links and resources
 [LangChain X](https://x.com/LangChainAI)  
 [LangChain GitHub](https://github.com/langchain-ai)  
 [LangChain YouTube](https://www.youtube.com/@LangChain/videos)  
+
+[Google DeepMind](https://deepmind.google)  
+[Google DeepMind X](https://x.com/googledeepmind)  
+[Google DeepMind GitHub](https://github.com/google-deepmind)  
+[Google DeepMind YouTube](https://www.youtube.com/@googledeepmind/videos)  
 
 # GitHub 👨‍💻
 
