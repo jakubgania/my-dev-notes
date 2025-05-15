@@ -77,6 +77,7 @@ collection of various notes, links and resources
 - [@geohotarchive](https://www.youtube.com/@geohotarchive/videos)
 - [@t3dotgg](https://www.youtube.com/@t3dotgg/videos)
 - [@mrdbourke](https://www.youtube.com/@mrdbourke/videos)
+- [@alejandro_ao](https://www.youtube.com/@alejandro_ao/videos)
 - [@NetworkChuck](https://www.youtube.com/@NetworkChuck/videos)
 - [@ThePrimeTimeagen](https://www.youtube.com/@ThePrimeTimeagen/videos)
 - [@developedbyed](https://www.youtube.com/@developedbyed/videos)
@@ -251,6 +252,13 @@ collection of various notes, links and resources
 [Google DeepMind X](https://x.com/googledeepmind)  
 [Google DeepMind GitHub](https://github.com/google-deepmind)  
 [Google DeepMind YouTube](https://www.youtube.com/@googledeepmind/videos)  
+
+[Prompt Engineering Guide](https://www.promptingguide.ai)  
+[Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)  
+
+[Machine Learning - Daniel Bourke](https://www.mrdbourke.com/tag/machine-learning/)  
+[Setup Apple Mac for Machine Learning with TensorFlow](https://www.mrdbourke.com/setup-apple-m1-pro-and-m1-max-for-machine-learning-and-data-science/)  
+[2020 Machine Learning Roadmap (87% valid for 2024)](https://www.youtube.com/watch?v=pHiMN_gy9mk)  
 
 # GitHub 👨‍💻
 
