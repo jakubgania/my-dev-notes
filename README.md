@@ -90,6 +90,7 @@ collection of various notes, links and resources
 - [@JavaScriptMastery](https://www.youtube.com/@JavaScriptMastery/videos)
 - [@fknight](https://www.youtube.com/@fknight/videos)
 - [@Hallden_](https://www.youtube.com/@Hallden_/videos)
+- [@TinaHuang1](https://www.youtube.com/@TinaHuang1/videos)
 - [@kevinfaang](https://www.youtube.com/@kevinfaang/videos)
 - [@TravisMedia](https://www.youtube.com/@TravisMedia/videos)
 - [@beyondfireship](https://www.youtube.com/@beyondfireship/videos)
@@ -114,6 +115,7 @@ collection of various notes, links and resources
 - [@devaslife](https://www.youtube.com/@devaslife/videos)
 - [@JoshuaMorony](https://www.youtube.com/@JoshuaMorony/videos)
 - [@ArjanCodes](https://www.youtube.com/@ArjanCodes/videos)
+- [@Remix-Run](https://www.youtube.com/@Remix-Run/videos)
 - [@DavidOndrej](https://www.youtube.com/@DavidOndrej/videos)
 - [@dreamsofcode](https://www.youtube.com/@dreamsofcode/videos)
 - [@aiDotEngineer](https://www.youtube.com/@aiDotEngineer/videos)
@@ -150,6 +152,7 @@ collection of various notes, links and resources
 - [@seanallen](https://www.youtube.com/@seanallen/videos)
 - [@streamdevelopers](https://www.youtube.com/@streamdevelopers/videos)  
 - [@KevinPowell](https://www.youtube.com/@KevinPowell/videos)
+- [@NicholasRenotte](https://www.youtube.com/@NicholasRenotte/videos)
 - [@Computerphile](https://www.youtube.com/@Computerphile/videos)  
 - [@techwithsoleyman](https://www.youtube.com/@techwithsoleyman/videos)
 - [@TuomoKankaanpaa](https://www.youtube.com/@TuomoKankaanpaa/videos)
@@ -158,6 +161,7 @@ collection of various notes, links and resources
 - [@_JohnHammond](https://www.youtube.com/@_JohnHammond/videos)
 - [@StewartLynch](https://www.youtube.com/@StewartLynch/videos)
 - [@LearnCantrill](https://www.youtube.com/@LearnCantrill/featured)
+- [@ConnerArdman](https://www.youtube.com/@ConnerArdman/videos)
 - [@brianruizy](https://www.youtube.com/@brianruizy/videos)
 - [@ReactConfOfficial](https://www.youtube.com/@ReactConfOfficial/videos)
 - [@kennygunderman](https://www.youtube.com/@kennygunderman/videos)
@@ -293,6 +297,7 @@ collection of various notes, links and resources
 - [cohere-ai](https://github.com/cohere-ai)
 - [rapidsai](https://github.com/rapidsai)
 - [ml-tooling](https://github.com/ml-tooling)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n)
 - [developedbyed](https://github.com/developedbyed)
 - [aws-neuron](https://github.com/aws-neuron)
 - [boto/boto3](https://github.com/boto/boto3)
@@ -314,6 +319,13 @@ collection of various notes, links and resources
 - [rasbt/LLMs-from-scratch - 01_optional-python-setup-preferences](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)  
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
+
+# X 🛰️
+
+- [llama_index](https://x.com/llama_index)
+- [lmstudio](https://x.com/lmstudio)
+- [exolabs](https://x.com/exolabs)
+- [extropic_ai](https://x.com/extropic_ai)
 
 # terminal commands
 
