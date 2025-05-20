@@ -240,6 +240,10 @@ collection of various notes, links and resources
 
 [Mistral AI X](https://x.com/MistralAI)  
 
+[Jan](https://jan.ai)  
+[Jan X](https://x.com/jandotai)  
+[Jan GitHub](https://github.com/menloresearch/jan)  
+
 [Model Context Protocol](https://modelcontextprotocol.io/introduction)  
 [Model Context Protocol X Community](https://x.com/MCP_Community)  
 [Model Context Protocol GitHub](https://github.com/modelcontextprotocol)  
@@ -324,6 +328,7 @@ collection of various notes, links and resources
 
 - [llama_index](https://x.com/llama_index)
 - [lmstudio](https://x.com/lmstudio)
+- [deepseek_ai](https://x.com/deepseek_ai)
 - [exolabs](https://x.com/exolabs)
 - [extropic_ai](https://x.com/extropic_ai)
 
