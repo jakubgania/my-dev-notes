@@ -194,6 +194,9 @@ collection of various notes, links and resources
 [LLM Everywhere: Docker for Local and Hugging Face Hosting](https://www.docker.com/blog/llm-docker-for-local-and-hugging-face-hosting/)  
 [Ollama 0.2 — revolutionizing local model management with concurrency](https://medium.com/@simeon.emanuilov/ollama-0-2-revolutionizing-local-model-management-with-concurrency-2318115ce961)  
 [Setting Up Ollama & Running DeepSeek R1 Locally for a Powerful RAG System](https://dev.to/ajmal_hasan/setting-up-ollama-running-deepseek-r1-locally-for-a-powerful-rag-system-4pd4)  
+[The Ollama Docker Compose Setup with WebUI and Remote Access via Cloudflare](https://dev.to/ajeetraina/the-ollama-docker-compose-setup-with-webui-and-remote-access-via-cloudflare-1ion)  
+[How to Run Llama 3 Locally with Ollama and Open WebUI](https://dev.to/timesurgelabs/how-to-run-llama-3-locally-with-ollama-and-open-webui-297d)  
+[Run LLMs locally or in Docker with Ollama & Ollama-WebUI](https://namrata23.medium.com/run-llms-locally-or-in-docker-with-ollama-ollama-webui-379029060324)  
 [Hardware for Deep Learning. Part 1: Introduction](https://moocaholic.medium.com/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)  
 [Hardware for Deep Learning. Part 2: CPU](https://moocaholic.medium.com/cpu-hardware-for-deep-learning-b91f53cb18af)  
 [Hardware for Deep Learning. Part 3: GPU](https://moocaholic.medium.com/hardware-for-deep-learning-part-3-gpu-8906c1644664)    
@@ -206,6 +209,8 @@ collection of various notes, links and resources
 [GitHub Profile Optimization](https://medium.com/@zachshallbetter/github-profile-tuning-a-senior-developers-guide-to-job-seeking-5aceacbe704b)  
 
 # AI 🚀
+
+in this section it usually groups a given company or technology in the form of homepage / social / github - depending on what resources are available
 
 [Hugging Face Hub documentation](https://huggingface.co/docs/hub/en/index)  
 
@@ -243,6 +248,11 @@ collection of various notes, links and resources
 [Jan](https://jan.ai)  
 [Jan X](https://x.com/jandotai)  
 [Jan GitHub](https://github.com/menloresearch/jan)  
+
+[LM Studio](https://lmstudio.ai)  
+[LM Studio X](https://x.com/lmstudio)  
+[LM Studio GitHub](https://github.com/lmstudio-ai)  
+[LM Studio 0.3.4 ships with Apple MLX](https://lmstudio.ai/blog/lmstudio-v0.3.4)  
 
 [Model Context Protocol](https://modelcontextprotocol.io/introduction)  
 [Model Context Protocol X Community](https://x.com/MCP_Community)  
