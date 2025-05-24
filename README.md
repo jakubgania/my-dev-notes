@@ -70,6 +70,8 @@ collection of various notes, links and resources
 - https://developer.chrome.com/docs/devtools/overrides/
 - https://developer.chrome.com/docs/extensions/develop/ui/override-chrome-pages
 - https://vercel.com/blog/category/engineering
+- https://developer.apple.com/videos/play/wwdc2023/10226/
+- https://web-performance.ch/ai/what-i-learned-about-lm-studio/
 
 # YouTube 📺
 
@@ -193,6 +195,7 @@ collection of various notes, links and resources
 [Apple Silicon GPUs, Docker and Ollama: Pick two](https://chariotsolutions.com/blog/post/apple-silicon-gpus-docker-and-ollama-pick-two/)  
 [LLM Everywhere: Docker for Local and Hugging Face Hosting](https://www.docker.com/blog/llm-docker-for-local-and-hugging-face-hosting/)  
 [Ollama 0.2 — revolutionizing local model management with concurrency](https://medium.com/@simeon.emanuilov/ollama-0-2-revolutionizing-local-model-management-with-concurrency-2318115ce961)  
+[Bringing Your Fine-Tuned MLX Model to Life with Ollama Integration](https://medium.com/@meirgotroot/bringing-your-fine-tuned-mlx-model-to-life-with-ollama-integration-c54274de6491)  
 [Setting Up Ollama & Running DeepSeek R1 Locally for a Powerful RAG System](https://dev.to/ajmal_hasan/setting-up-ollama-running-deepseek-r1-locally-for-a-powerful-rag-system-4pd4)  
 [The Ollama Docker Compose Setup with WebUI and Remote Access via Cloudflare](https://dev.to/ajeetraina/the-ollama-docker-compose-setup-with-webui-and-remote-access-via-cloudflare-1ion)  
 [How to Run Llama 3 Locally with Ollama and Open WebUI](https://dev.to/timesurgelabs/how-to-run-llama-3-locally-with-ollama-and-open-webui-297d)  
