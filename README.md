@@ -23,6 +23,8 @@ collection of various notes, links and resources
 [Node.js](https://nodejs.org/en)  
 [Express](https://expressjs.com)  
 
+[uv](https://docs.astral.sh/uv/)  
+
 # news
 
 - https://techcrunch.com
