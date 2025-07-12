@@ -25,6 +25,7 @@ collection of various notes, links and resources
 
 [uv](https://docs.astral.sh/uv/)  
 [Redis Python client](https://github.com/redis/redis-py)  
+[XCTest | Apple Developer Documentation](https://developer.apple.com/documentation/xctest)  
 
 # news
 
