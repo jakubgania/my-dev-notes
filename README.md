@@ -24,6 +24,7 @@ collection of various notes, links and resources
 [Express](https://expressjs.com)  
 
 [uv](https://docs.astral.sh/uv/)  
+[Redis Python client](https://github.com/redis/redis-py)  
 
 # news
 
