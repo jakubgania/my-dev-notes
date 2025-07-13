@@ -27,6 +27,7 @@ collection of various notes, links and resources
 [Redis Python client](https://github.com/redis/redis-py)  
 [XCTest | Apple Developer Documentation](https://developer.apple.com/documentation/xctest)  
 [appium](https://github.com/appium/appium)  
+[appium - npm](https://www.npmjs.com/package/appium)  
 
 # news
 
