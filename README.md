@@ -25,6 +25,8 @@ collection of various notes, links and resources
 
 [uv](https://docs.astral.sh/uv/)  
 [Redis Python client](https://github.com/redis/redis-py)  
+[echarts-for-react - npm](https://www.npmjs.com/package/echarts-for-react)  
+[Apache ECharts](https://echarts.apache.org/en/index.html)  
 [XCTest | Apple Developer Documentation](https://developer.apple.com/documentation/xctest)  
 [appium](https://github.com/appium/appium)  
 [appium - npm](https://www.npmjs.com/package/appium)  
