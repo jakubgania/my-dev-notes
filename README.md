@@ -30,6 +30,7 @@ collection of various notes, links and resources
 [XCTest | Apple Developer Documentation](https://developer.apple.com/documentation/xctest)  
 [appium](https://github.com/appium/appium)  
 [appium - npm](https://www.npmjs.com/package/appium)  
+[Psycopg 3](https://github.com/psycopg/psycopg)
 
 # news
 
