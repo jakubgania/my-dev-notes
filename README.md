@@ -353,6 +353,7 @@ in this section it usually groups a given company or technology in the form of h
 - [deepseek_ai](https://x.com/deepseek_ai)
 - [exolabs](https://x.com/exolabs)
 - [extropic_ai](https://x.com/extropic_ai)
+- [OpenAtMicrosoft](https://x.com/OpenAtMicrosoft)
 
 # terminal commands
 
