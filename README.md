@@ -359,12 +359,23 @@ in this section it usually groups a given company or technology in the form of h
 
 # Other
 
+- https://9to5mac.com/2025/09/22/macos-tahoe-26-1-beta-1-mcp-integration/  
+- https://9to5mac.com/2025/10/16/apple-research-ai-software-development/ 
 - https://9to5mac.com/2025/09/06/productivity-superpower-n8n-hostinger-vps/  
+- https://9to5mac.com/2025/10/13/apple-to-present-multiple-studies-at-the-2025-international-conference-on-computer-vision/
 - https://9to5mac.com/2025/08/28/new-xcode-beta-now-available-with-gpt-5-and-claude-support/  
 - https://9to5mac.com/2025/09/02/apples-ai-exodus-continues-with-four-new-deflections-to-meta-openai-and-anthropic/  
 - https://9to5mac.com/2025/09/12/apple-security-research-device-program-2026/  
 - https://9to5mac.com/2025/08/12/claude-sonnet-4-1-million-token-context-upgrade/  
 - https://9to5mac.com/2025/07/29/apple-just-lost-another-ai-researcher-as-it-weighs-shift-to-third-party-models/  
+- https://9to5mac.com/2025/08/06/how-to-run-gpt-oss-20b-on-mac/  
+- https://9to5mac.com/2025/06/11/how-do-apple-new-local-models-compare/
+- https://9to5mac.com/2025/01/29/best-ai-chatbot-apps-for-iphone-ipad-mac/
+- https://9to5mac.com/2024/10/30/github-copilot-xcode/
+- https://9to5mac.com/2024/11/01/apple-researchers-ran-an-ai-test-that-exposed-a-fundamental-intelligence-flaw/
+- https://9to5mac.com/2024/05/23/apple-shortcuts-and-chatgpt-for-mac/
+
+
 
 # terminal commands
 
