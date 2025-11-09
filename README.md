@@ -359,11 +359,12 @@ in this section it usually groups a given company or technology in the form of h
 
 # Other
 
-https://9to5mac.com/2025/09/06/productivity-superpower-n8n-hostinger-vps/  
-https://9to5mac.com/2025/08/28/new-xcode-beta-now-available-with-gpt-5-and-claude-support/  
-https://9to5mac.com/2025/09/02/apples-ai-exodus-continues-with-four-new-deflections-to-meta-openai-and-anthropic/  
-https://9to5mac.com/2025/09/12/apple-security-research-device-program-2026/  
-
+- https://9to5mac.com/2025/09/06/productivity-superpower-n8n-hostinger-vps/  
+- https://9to5mac.com/2025/08/28/new-xcode-beta-now-available-with-gpt-5-and-claude-support/  
+- https://9to5mac.com/2025/09/02/apples-ai-exodus-continues-with-four-new-deflections-to-meta-openai-and-anthropic/  
+- https://9to5mac.com/2025/09/12/apple-security-research-device-program-2026/  
+- https://9to5mac.com/2025/08/12/claude-sonnet-4-1-million-token-context-upgrade/  
+- https://9to5mac.com/2025/07/29/apple-just-lost-another-ai-researcher-as-it-weighs-shift-to-third-party-models/  
 
 # terminal commands
 
