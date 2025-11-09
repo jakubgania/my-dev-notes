@@ -357,6 +357,13 @@ in this section it usually groups a given company or technology in the form of h
 - [extropic_ai](https://x.com/extropic_ai)
 - [OpenAtMicrosoft](https://x.com/OpenAtMicrosoft)
 
+# Other
+
+https://9to5mac.com/2025/09/06/productivity-superpower-n8n-hostinger-vps/
+https://9to5mac.com/2025/08/28/new-xcode-beta-now-available-with-gpt-5-and-claude-support/
+https://9to5mac.com/2025/09/02/apples-ai-exodus-continues-with-four-new-deflections-to-meta-openai-and-anthropic/
+
+
 # terminal commands
 
 `curl --head --write-out '%{http_code}\n%{http_version}\n%{url.host}\n' https://github.com`
