@@ -300,6 +300,7 @@ in this section it usually groups a given company or technology in the form of h
 # GitHub 👨‍💻
 
 - [spec-kit](https://github.com/github/spec-kit)  
+- [localstack](https://github.com/localstack/localstack)
 - [geohot](https://github.com/geohot)
 - [ggerganov](https://github.com/ggerganov)
 - [tinygrad](https://github.com/tinygrad)
