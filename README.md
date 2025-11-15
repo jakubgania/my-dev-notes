@@ -215,6 +215,10 @@ collection of various notes, links and resources
 [Hardware for Deep Learning. Part 3: GPU](https://moocaholic.medium.com/hardware-for-deep-learning-part-3-gpu-8906c1644664)    
 [Hardware for Deep Learning. Part 4: ASIC](https://moocaholic.medium.com/hardware-for-deep-learning-part-4-asic-96a542fe6a81#3b39)  
 
+[Tutorial: Time Series Forecasting with Prophet](https://www.kaggle.com/code/prashant111/tutorial-time-series-forecasting-with-prophet#5.-Basic-Setup-)  
+[Updates to Apple’s On-Device and Server Foundation Language Models](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates)  
+
+
 [Asynchronous Tasks with FastAPI and Celery](https://testdriven.io/blog/fastapi-and-celery/)
 [Using MinIO with Docker and Python](https://medium.com/@sant1/using-minio-with-docker-and-python-cbbad397cb5d)  
 [Docker image - minio/minio](https://hub.docker.com/r/minio/minio)
@@ -295,6 +299,7 @@ in this section it usually groups a given company or technology in the form of h
 
 # GitHub 👨‍💻
 
+- [spec-kit](https://github.com/github/spec-kit)  
 - [geohot](https://github.com/geohot)
 - [ggerganov](https://github.com/ggerganov)
 - [tinygrad](https://github.com/tinygrad)
