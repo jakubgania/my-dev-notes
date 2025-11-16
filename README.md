@@ -300,6 +300,7 @@ in this section it usually groups a given company or technology in the form of h
 # GitHub 👨‍💻
 
 - [spec-kit](https://github.com/github/spec-kit)  
+- [agent-lightning](https://github.com/microsoft/agent-lightning)  
 - [localstack](https://github.com/localstack/localstack)
 - [geohot](https://github.com/geohot)
 - [ggerganov](https://github.com/ggerganov)
@@ -352,6 +353,7 @@ in this section it usually groups a given company or technology in the form of h
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [rasbt/LLMs-from-scratch - 01_optional-python-setup-preferences](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)  
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace)
 
 
 # X 🛰️
