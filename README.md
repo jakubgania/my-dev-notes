@@ -365,6 +365,12 @@ in this section it usually groups a given company or technology in the form of h
 - [extropic_ai](https://x.com/extropic_ai)
 - [OpenAtMicrosoft](https://x.com/OpenAtMicrosoft)
 
+# arxiv 📁
+
+https://arxiv.org/abs/2511.07885
+https://arxiv.org/pdf/2511.07885
+https://www.arxiv.org/abs/2510.19808
+
 # Other
 
 - https://9to5mac.com/2025/09/22/macos-tahoe-26-1-beta-1-mcp-integration/  
