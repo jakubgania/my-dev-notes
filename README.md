@@ -370,10 +370,13 @@ in this section it usually groups a given company or technology in the form of h
 
 https://arxiv.org/abs/2511.17127
 https://arxiv.org/abs/2306.06191
+https://arxiv.org/abs/2507.18624
 https://arxiv.org/abs/2505.02550
+https://arxiv.org/abs/2411.01738
 https://arxiv.org/abs/2507.19635
 https://arxiv.org/abs/2511.07885
 https://arxiv.org/pdf/2511.07885
+https://arxiv.org/abs/2406.07739
 https://www.arxiv.org/abs/2509.04664
 https://www.arxiv.org/abs/2510.19808
 
