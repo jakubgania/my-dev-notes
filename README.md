@@ -95,6 +95,7 @@ collection of various notes, links and resources
 - [@GitHub](https://www.youtube.com/@GitHub/videos)
 - [@VercelHQ](https://www.youtube.com/@VercelHQ/videos)
 - [@AZisk](https://www.youtube.com/@AZisk/videos)
+- [@JeffGeerlin](https://www.youtube.com/@JeffGeerling/videos)
 - [@leerob](https://www.youtube.com/@leerob/videos)
 - [@freecodecamp](https://www.youtube.com/@freecodecamp/videos)
 - [@WebDevSimplified](https://www.youtube.com/@WebDevSimplified/videos)
@@ -367,9 +368,13 @@ in this section it usually groups a given company or technology in the form of h
 
 # arxiv 📁
 
+https://arxiv.org/abs/2511.17127
+https://arxiv.org/abs/2306.06191
+https://arxiv.org/abs/2505.02550
 https://arxiv.org/abs/2507.19635
 https://arxiv.org/abs/2511.07885
 https://arxiv.org/pdf/2511.07885
+https://www.arxiv.org/abs/2509.04664
 https://www.arxiv.org/abs/2510.19808
 
 # Other
