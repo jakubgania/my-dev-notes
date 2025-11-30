@@ -303,6 +303,7 @@ in this section it usually groups a given company or technology in the form of h
 - [spec-kit](https://github.com/github/spec-kit)  
 - [agent-lightning](https://github.com/microsoft/agent-lightning)  
 - [localstack](https://github.com/localstack/localstack)
+- [open-telemetry](https://github.com/open-telemetry)
 - [geohot](https://github.com/geohot)
 - [ggerganov](https://github.com/ggerganov)
 - [tinygrad](https://github.com/tinygrad)
