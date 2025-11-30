@@ -356,6 +356,7 @@ in this section it usually groups a given company or technology in the form of h
 - [rasbt/LLMs-from-scratch - 01_optional-python-setup-preferences](https://github.com/rasbt/LLMs-from-scratch/tree/main/setup/01_optional-python-setup-preferences)  
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace)
+- [AsahiLinux](https://github.com/AsahiLinux)
 
 
 # X 🛰️
