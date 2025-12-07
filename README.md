@@ -230,6 +230,10 @@ collection of various notes, links and resources
 
 in this section it usually groups a given company or technology in the form of homepage / social / github - depending on what resources are available
 
+[EXO X](https://x.com/exolabs)  
+[EXO Blog](https://blog.exolabs.net)  
+[EXO GitHub](https://github.com/exo-explore/exo/)  
+
 [Hugging Face Hub documentation](https://huggingface.co/docs/hub/en/index)  
 
 [AI at Meta](https://ai.meta.com)  
