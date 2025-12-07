@@ -389,6 +389,9 @@ https://www.arxiv.org/abs/2510.19808
 
 # Other
 
+- https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/
+- https://9to5mac.com/2025/11/19/macos-26-2-adds-three-new-mac-features-heres-whats-coming/
+- https://9to5mac.com/2025/11/19/a-cluster-of-mac-studios-is-just-one-reason-we-no-longer-need-a-mac-pro/
 - https://9to5mac.com/2025/09/22/macos-tahoe-26-1-beta-1-mcp-integration/  
 - https://9to5mac.com/2025/10/16/apple-research-ai-software-development/ 
 - https://9to5mac.com/2025/09/06/productivity-superpower-n8n-hostinger-vps/  
