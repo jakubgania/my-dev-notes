@@ -280,7 +280,8 @@ in this section it usually groups a given company or technology in the form of h
 [Model Context Protocol X Community](https://x.com/MCP_Community)  
 [Model Context Protocol GitHub](https://github.com/modelcontextprotocol)  
 
-[MLX Docs](https://ml-explore.github.io/mlx/build/html/index.html)
+[MLX](https://mlx-framework.org)  
+[MLX Docs](https://ml-explore.github.io/mlx/build/html/index.html)  
 
 [Apple Developer - Machine Learning](https://developer.apple.com/machine-learning/)  
 [Apple Developer - TensorFlow Plugin](https://developer.apple.com/metal/tensorflow-plugin/)
@@ -324,6 +325,7 @@ in this section it usually groups a given company or technology in the form of h
 - [celery/celery](https://github.com/celery/celery)
 - [ollama/ollama](https://github.com/ollama/ollama)
 - [apple](https://github.com/apple)
+- [apple/ml-clara](https://github.com/apple/ml-clara)
 - [expo](https://github.com/expo)
 - [exo-explore](https://github.com/exo-explore)
 - [expo/react-conf-app](https://github.com/expo/react-conf-app)
@@ -389,6 +391,7 @@ https://www.arxiv.org/abs/2510.19808
 
 # Other
 
+- https://9to5mac.com/2025/11/20/apple-shows-how-much-faster-the-m5-runs-local-llms-compared-to-the-m4/
 - https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/
 - https://9to5mac.com/2025/11/19/macos-26-2-adds-three-new-mac-features-heres-whats-coming/
 - https://9to5mac.com/2025/11/19/a-cluster-of-mac-studios-is-just-one-reason-we-no-longer-need-a-mac-pro/
