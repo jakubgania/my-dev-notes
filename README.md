@@ -305,6 +305,7 @@ in this section it usually groups a given company or technology in the form of h
 
 # GitHub 👨‍💻
 
+- [humanlayer](https://github.com/humanlayer/humanlayer)  
 - [spec-kit](https://github.com/github/spec-kit)  
 - [agent-lightning](https://github.com/microsoft/agent-lightning)  
 - [localstack](https://github.com/localstack/localstack)
