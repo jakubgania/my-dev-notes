@@ -230,6 +230,9 @@ collection of various notes, links and resources
 
 in this section it usually groups a given company or technology in the form of homepage / social / github - depending on what resources are available
 
+[vLLM](https://docs.vllm.ai/en/latest/)  
+[vLLM GitHub](https://github.com/vllm-project/vllm)
+
 [EXO X](https://x.com/exolabs)  
 [EXO Blog](https://blog.exolabs.net)  
 [EXO GitHub](https://github.com/exo-explore/exo/)  
