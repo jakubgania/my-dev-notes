@@ -369,6 +369,7 @@ in this section it usually groups a given company or technology in the form of h
 - [githubnext/monaspace](https://github.com/githubnext/monaspace)
 - [AsahiLinux](https://github.com/AsahiLinux)
 - [react-grab](https://github.com/aidenybai/react-grab)
+- [vue-mess-detector](https://github.com/rrd108/vue-mess-detector)
 
 
 # X 🛰️
