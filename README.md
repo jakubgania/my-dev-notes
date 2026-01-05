@@ -397,6 +397,7 @@ https://www.arxiv.org/abs/2510.19808
 
 # Other
 
+- https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/
 - https://9to5mac.com/2025/11/20/apple-shows-how-much-faster-the-m5-runs-local-llms-compared-to-the-m4/
 - https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/
 - https://9to5mac.com/2025/11/19/macos-26-2-adds-three-new-mac-features-heres-whats-coming/
