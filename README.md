@@ -3,6 +3,7 @@
 collection of various notes, links and resources
 
 [Vue.js](https://vuejs.org)  
+[Vue Developer Roadmap](https://roadmap.sh/vue)  
 [Vuetify](https://vuetifyjs.com/en/)  
 [Vue Router](https://router.vuejs.org)  
 [Vite](https://vite.dev)  
