@@ -309,6 +309,7 @@ in this section it usually groups a given company or technology in the form of h
 
 # GitHub 👨‍💻
 
+- [microsoft/autogen](https://github.com/microsoft/autogen)
 - [agentskills](https://github.com/agentskills/agentskills)
 - [humanlayer](https://github.com/humanlayer/humanlayer)  
 - [spec-kit](https://github.com/github/spec-kit)  
@@ -405,6 +406,7 @@ https://www.arxiv.org/abs/2510.19808
 - https://9to5mac.com/2025/11/19/macos-26-2-adds-three-new-mac-features-heres-whats-coming/
 - https://9to5mac.com/2025/11/19/a-cluster-of-mac-studios-is-just-one-reason-we-no-longer-need-a-mac-pro/
 - https://9to5mac.com/2025/09/22/macos-tahoe-26-1-beta-1-mcp-integration/  
+- https://9to5mac.com/2025/10/13/apples-new-language-model-can-write-long-texts-incredibly-fast/
 - https://9to5mac.com/2025/10/16/apple-research-ai-software-development/ 
 - https://9to5mac.com/2025/09/06/productivity-superpower-n8n-hostinger-vps/  
 - https://9to5mac.com/2025/10/13/apple-to-present-multiple-studies-at-the-2025-international-conference-on-computer-vision/
