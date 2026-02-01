@@ -309,6 +309,7 @@ in this section it usually groups a given company or technology in the form of h
 
 # GitHub 👨‍💻
 
+- [zai-org](https://github.com/zai-org)
 - [microsoft/autogen](https://github.com/microsoft/autogen)
 - [agentskills](https://github.com/agentskills/agentskills)
 - [humanlayer](https://github.com/humanlayer/humanlayer)  
