@@ -371,6 +371,7 @@ in this section it usually groups a given company or technology in the form of h
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace)
 - [AsahiLinux](https://github.com/AsahiLinux)
+- [ChartGPU](https://github.com/ChartGPU/ChartGPU)
 - [react-grab](https://github.com/aidenybai/react-grab)
 - [vue-mess-detector](https://github.com/rrd108/vue-mess-detector)
 
