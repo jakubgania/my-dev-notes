@@ -2,6 +2,8 @@
 
 collection of various notes, links and resources
 
+[The Agent Skills Directory](https://skills.sh)
+
 [Vue.js](https://vuejs.org)  
 [Vue Developer Roadmap](https://roadmap.sh/vue)  
 [Vuetify](https://vuetifyjs.com/en/)  
@@ -35,8 +37,8 @@ collection of various notes, links and resources
 
 # news
 
-- https://techcrunch.com
 - https://news.ycombinator.com
+- https://techcrunch.com
 - https://github.com/trending
 - https://github.com/explore
 
