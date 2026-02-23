@@ -390,6 +390,7 @@ in this section it usually groups a given company or technology in the form of h
 
 # arxiv 📁
 
+https://arxiv.org/abs/2512.24601
 https://arxiv.org/abs/2508.06471
 https://arxiv.org/abs/2506.08872
 https://arxiv.org/abs/2511.04427
