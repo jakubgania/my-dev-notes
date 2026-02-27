@@ -311,6 +311,7 @@ in this section it usually groups a given company or technology in the form of h
 
 # GitHub 👨‍💻
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 - [moltbot](https://github.com/moltbot/moltbot)
 - [zai-org](https://github.com/zai-org)
