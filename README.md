@@ -1,4 +1,4 @@
-# my dev notes ✨
+# My dev notes ✨
 
 collection of various notes, links and resources
 
@@ -35,7 +35,7 @@ collection of various notes, links and resources
 [appium - npm](https://www.npmjs.com/package/appium)  
 [Psycopg 3](https://github.com/psycopg/psycopg)
 
-# news
+# News 🌍
 
 - https://news.ycombinator.com
 - https://techcrunch.com
@@ -412,6 +412,7 @@ https://www.arxiv.org/abs/2510.19808
 
 # Other
 
+- https://9to5mac.com/2026/03/01/apple-replacing-core-ml-with-modernized-core-ai-framework-for-ios-27-at-wwdc/
 - https://9to5mac.com/2026/02/12/apple-study-looks-into-how-people-expect-to-interact-with-ai-agents/
 - https://9to5mac.com/2026/02/20/apple-researchers-develop-on-device-ai-agent-that-interacts-with-apps-for-you/
 - https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/
