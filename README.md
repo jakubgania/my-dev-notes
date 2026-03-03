@@ -343,6 +343,7 @@ in this section it usually groups a given company or technology in the form of h
 - [exo-explore](https://github.com/exo-explore)
 - [expo/react-conf-app](https://github.com/expo/react-conf-app)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx)
+- [ggml-org](https://github.com/ggml-org)  
 - [OpenInterpreter](https://github.com/OpenInterpreter)
 - [shadcn-ui](https://github.com/shadcn-ui)
 - [fireship-io](https://github.com/fireship-io)
