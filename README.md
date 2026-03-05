@@ -395,9 +395,9 @@ in this section it usually groups a given company or technology in the form of h
 
 [Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)  
 [Recursive Language Models](https://arxiv.org/abs/2512.24601)    
-https://arxiv.org/abs/2508.06471  
-https://arxiv.org/abs/2506.08872  
-https://arxiv.org/abs/2511.04427  
+[GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)  
+[Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)  
+[Speed at the Cost of Quality: How Cursor AI Increases Short-Term Velocity and Long-Term Complexity in Open-Source Projects](https://arxiv.org/abs/2511.04427)  
 https://arxiv.org/abs/2507.11538  
 https://arxiv.org/abs/1803.03635  
 https://arxiv.org/abs/2511.17127  
