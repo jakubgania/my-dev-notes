@@ -393,15 +393,15 @@ in this section it usually groups a given company or technology in the form of h
 
 # arxiv 📁
 
-[Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)  
-[Recursive Language Models](https://arxiv.org/abs/2512.24601)    
-[GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)  
-[Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)  
-[Speed at the Cost of Quality: How Cursor AI Increases Short-Term Velocity and Long-Term Complexity in Open-Source Projects](https://arxiv.org/abs/2511.04427)  
-https://arxiv.org/abs/2507.11538  
-https://arxiv.org/abs/1803.03635  
-https://arxiv.org/abs/2511.17127  
-https://arxiv.org/abs/2306.06191  
+- [Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)  
+- [Recursive Language Models](https://arxiv.org/abs/2512.24601)    
+- [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)  
+- [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)  
+- [Speed at the Cost of Quality: How Cursor AI Increases Short-Term Velocity and Long-Term Complexity in Open-Source Projects](https://arxiv.org/abs/2511.04427)  
+- [How Many Instructions Can LLMs Follow at Once?](https://arxiv.org/abs/2507.11538)
+- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) 
+- [Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design](https://arxiv.org/abs/2511.17127)
+- [Open Data on GitHub: Unlocking the Potential of AI](https://arxiv.org/abs/2306.06191)
 https://arxiv.org/abs/2507.18624  
 https://arxiv.org/abs/2505.02550  
 https://arxiv.org/abs/2411.01738  
