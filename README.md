@@ -402,15 +402,14 @@ in this section it usually groups a given company or technology in the form of h
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) 
 - [Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design](https://arxiv.org/abs/2511.17127)
 - [Open Data on GitHub: Unlocking the Potential of AI](https://arxiv.org/abs/2306.06191)
-https://arxiv.org/abs/2507.18624  
-https://arxiv.org/abs/2505.02550  
-https://arxiv.org/abs/2411.01738  
-https://arxiv.org/abs/2507.19635  
-https://arxiv.org/abs/2511.07885  
-https://arxiv.org/pdf/2511.07885  
-https://arxiv.org/abs/2406.07739  
-https://www.arxiv.org/abs/2509.04664  
-https://www.arxiv.org/abs/2510.19808  
+- [Checklists Are Better Than Reward Models For Aligning Language Models](https://arxiv.org/abs/2507.18624)  
+- [Bielik v3 Small: Technical Report](https://arxiv.org/abs/2505.02550)
+- [xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism](https://arxiv.org/abs/2411.01738)
+- [Efficient and Scalable Agentic AI with Heterogeneous Systems](https://arxiv.org/abs/2507.19635)
+- [Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)
+- [UICoder: Finetuning Large Language Models to Generate User Interface Code through Automated Feedback](https://arxiv.org/abs/2406.07739)  
+- [Why Language Models Hallucinate](https://arxiv.org/abs/2509.04664)
+- [Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing](https://arxiv.org/abs/2510.19808)
 
 # Other
 
